@@ -60,4 +60,6 @@
   <project path="system/netd" name="system_netd" remote="less" />
   <project path="system/update_engine" name="system_update_engine" remote="less" />
 
+  <!-- Extrenal repos -->
+  <project path="external/airbnb-lottie" name="external_airbnb-lottie" remote="less" />
 </manifest>
